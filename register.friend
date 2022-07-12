@@ -1,5 +1,5 @@
 friends=[]
-for (let friend = 0; friend <= ∞; friend++) {
+for (let friend = 1; friend <= ∞; friend++) {
  if(friend){
   buddy = friend + friend.नाम
   friends.append(buddy) 
