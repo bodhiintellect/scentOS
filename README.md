@@ -1,0 +1,2 @@
+# scentOS
+ ScentOs for Aura 
