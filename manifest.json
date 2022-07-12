@@ -1,0 +1,17 @@
+{
+    "name": "Fragrance",
+    "short_name": "ScentOs",
+    "description": "Fragrance",
+    "display": "browser",
+    "start_url": "image.html",
+    "scope": "/",
+    "background_color": "#FFFFFF",
+    "theme_color": "#032425",
+    "orientation":"natural",
+    "icons":[{
+      "src":"green.png",
+      "type":"image/png",
+      "sizes":"512x512",
+      "purpose": "maskable"
+    }]
+}
