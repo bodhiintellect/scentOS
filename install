@@ -3,7 +3,7 @@ if alergy then false and skip
 if permission granded only then proceed
 filter permission.name(rating) let permission list
 get permission then show
-if concent verbally and by voice true then
+if concent true then
 locate package manager install
 if installed ! check version 
 if Auto-updates on package manager upgrade
@@ -11,6 +11,5 @@ if trial version include scent only
 if compatibility return true
 Full featured version:
 Perceivable Operatable Understandable Robust
-if Depentency on Standalone then skip install
+if Depentency on Standalone then install
 Browser display
-
