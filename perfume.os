@@ -1,4 +1,4 @@
-ahamdesigner/scentOs/Design/body.temple
+bodhiintellect/scentOs/Design/body.temple
 
 आ नो भद्रा: क्रतवो यन्तु विश्वत:
 Let noble thoughts come to us from every side.
