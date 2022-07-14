@@ -4,4 +4,4 @@ for (let friend = 1; friend <= ∞; friend++) {
   buddy = friend + friend.नाम
   friends.append(buddy) 
  }
-} // register 0.नाम and so on
+} // register 1.नाम and so on
