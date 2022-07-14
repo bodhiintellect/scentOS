@@ -8,8 +8,8 @@ The Divine forces do not help those who do not toil themselves.
 🄶🄻🄾🄱🄰🄻 🄲🄾🄼🄼🄾🄽🅂
 
 Dev /\ perfume.console=
-if error || access && view return true
-elseif !error && access && view return true 
+if error || access && view return FALSE
+elseif !error && access && view return TRUE 
 
 perfume.ഡിസൈനർ result
 
